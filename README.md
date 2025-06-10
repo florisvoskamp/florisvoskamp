@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Floris Daniël Voskamp
 
-<!--
-**florisvoskamp/florisvoskamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Floris — a software engineer with a passion for building solid, scalable, and creative solutions.  
+I've been working professionally with **C#/.NET since 2017**, and over the years I've added a wide range of languages and frameworks to my toolkit.
 
-Here are some ideas to get you started:
+💼 Founder of [Adulari](https://adulari.dev/) — delivering custom software solutions since **2020**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+**Languages**  
+`C#` `Java` `Go` `PHP` `JavaScript` `TypeScript` `Python` `C++`
+
+**Frameworks & Tools**  
+`.NET` `React` `Node.js` `REST APIs` `SQL/NoSQL` `Docker` `Linux` `CI/CD`
+
+---
+
+## 🧭 What I Do
+
+- ✨ Architect and build full-stack web applications  
+- 🚀 Launch performant, secure, and maintainable software for clients across industries  
+
+---
+
+## 🌍 Find Me Online
+
+- 🧠 [Adulari.dev](https://adulari.dev/)
+- 🐙 [GitHub](https://github.com/florisvoskamp)
+- 💼 Let’s build something exceptional.
+
+---
