@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0b1226,45:111827,70:0f172a,100:020617&text=Floris%20Voskamp&fontSize=62&fontColor=eaf2ff&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20Architecture%20•%20Founder%20at%20Adulari&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0b1226,45:111827,70:0f172a,100:020617&text=Floris%20Voskamp&fontSize=62&fontColor=eaf2ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20Founder%20at%20Adulari&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
@@ -21,17 +21,21 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Software engineer building fast, scalable systems</strong>
+</p>
+
 ---
 
 ## About Me
 
 I’m a software engineer focused on backend architecture, performance, and scalable systems.
 
-My main strength is building software that is not just functional, but actually clean, fast, maintainable, and well designed under the hood.
+My main strength is building software that is not just functional, but also clean, maintainable, and solid under the hood. I enjoy designing systems that stay understandable as they grow.
 
-I work across multiple languages and ecosystems, with a strong focus on C#/.NET, Go, TypeScript, APIs, infrastructure, and full-stack product development.
+I work across multiple languages and ecosystems, with a strong focus on C#/.NET, Go, TypeScript, APIs, infrastructure, and full stack product development.
 
-I’m also the founder of **Adulari**, where I build custom software solutions for real-world problems.
+I’m also the founder of **Adulari**, where I build custom software solutions for real world problems.
 
 ---
 
@@ -95,17 +99,31 @@ I’m also the founder of **Adulari**, where I build custom software solutions f
 ## Featured Projects
 
 ### BudgetFlow in Haskell
-A Haskell application that combines recursion assignments with **BudgetFlow**, a CLI for personal budget simulation, scenario comparison, and Monte Carlo stress testing.
+A Haskell application built around recursion and personal budget simulation, with scenario comparison and stress testing.
 
-- Haskell
-- 52 commits
+**Why it stands out**
+- strongest public repo on the profile
+- **52 commits**
 - includes a release
-- grade received: **10/10**
+- received a **10.0 grade**
 
 [View repository](https://github.com/florisvoskamp/haskell-app)
 
-### More Coming
-I’m actively building and refining projects that better represent my work in backend systems, architecture, automation, and product engineering.
+### Compiler / Parsing Project
+A Java based compiler assignment built on top of a forked base repository, extended with your own implementation work.
+
+**Why it belongs here**
+- meaningful academic project instead of just a fork
+- **18 commits**
+- focused on compiler construction, parsing, and language tooling
+- uses **Java** and **ANTLR**
+
+[View repository](https://github.com/florisvoskamp/icss2022-sep)
+
+### Java App
+A smaller Java project that is currently more lightweight, but still worth keeping visible as part of your broader language range.
+
+[View repository](https://github.com/florisvoskamp/java-app)
 
 ---
 
@@ -113,10 +131,10 @@ I’m actively building and refining projects that better represent my work in b
 
 - high performance backend services
 - scalable APIs and platforms
-- full-stack applications
+- full stack applications
 - automation tooling
-- developer-focused systems
-- data-driven and technical products
+- developer focused systems
+- data driven and technical products
 
 ---
 
@@ -140,6 +158,9 @@ I’m actively building and refining projects that better represent my work in b
   </a>
   <a href="https://github.com/florisvoskamp">
     <img src="https://img.shields.io/badge/GitHub-florisvoskamp-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" />
+  </a>
+  <a href="https://www.linkedin.com/in/floris-voskamp">
+    <img src="https://img.shields.io/badge/LinkedIn-Floris%20Voskamp-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" />
   </a>
 </p>
 
