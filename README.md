@@ -1,23 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0b1226,45:111827,70:0f172a,100:020617&text=Floris%20Voskamp&fontSize=62&fontColor=eaf2ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architecture%20%E2%80%A2%20Founder%20at%20Adulari&descAlignY=56&descSize=18&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0b1226,45:111827,70:0f172a,100:020617&text=Floris%20Voskamp&fontSize=62&fontColor=eaf2ff&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20Architecture%20•%20Founder%20at%20Adulari&descAlignY=56&descSize=18&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=24&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=1100&lines=Building+fast%2C+clean%2C+scalable+software;C%23+%2F+.NET+%2F+Go+%2F+TypeScript;Backend+systems+with+strong+architecture;Performance-first+engineering;Founder+of+Adulari" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=24&duration=2400&pause=700&color=7DD3FC&center=true&vCenter=true&width=1100&lines=Software+engineer+building+fast%2C+scalable+systems;Backend+architecture+and+clean+design;C%23+%2F+.NET+%2F+Go+%2F+TypeScript;Performance-first+engineering;Founder+of+Adulari" />
 </p>
 
 <p align="center">
   <a href="https://github.com/florisvoskamp">
-    <img src="https://komarev.com/ghpvc/?username=florisvoskamp&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=florisvoskamp&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" />
   </a>
   <a href="https://github.com/florisvoskamp?tab=followers">
-    <img src="https://img.shields.io/github/followers/florisvoskamp?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220&color=1f2937" alt="Followers" />
-  </a>
-  <a href="https://github.com/florisvoskamp?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-4-1f2937?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="Public repositories" />
+    <img src="https://img.shields.io/github/followers/florisvoskamp?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220&color=1f2937" />
   </a>
   <a href="https://adulari.dev/">
-    <img src="https://img.shields.io/badge/Adulari-adulari.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1220" alt="Adulari website" />
+    <img src="https://img.shields.io/badge/Adulari-adulari.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0b1220" />
   </a>
 </p>
 
@@ -27,15 +24,21 @@
 
 ---
 
-## About Me
+## About
 
-I’m a software engineer focused on backend architecture, performance, and scalable systems.
+Software engineer focused on backend architecture, performance, and scalable system design.  
+I build clean, maintainable software with strong fundamentals and minimal overhead.
 
-My main strength is building software that is not just functional, but also clean, maintainable, and solid under the hood. I enjoy designing systems that stay understandable as they grow.
+Founder of **Adulari**, delivering custom software solutions and technical architecture.
 
-I work across multiple languages and ecosystems, with a strong focus on C#/.NET, Go, TypeScript, APIs, infrastructure, and full stack product development.
+Core interests:
 
-I’m also the founder of **Adulari**, where I build custom software solutions for real world problems.
+- high performance backend systems  
+- scalable API platforms  
+- distributed system design  
+- clean architecture  
+- developer tooling  
+- automation and data driven systems  
 
 ---
 
@@ -61,7 +64,7 @@ I’m also the founder of **Adulari**, where I build custom software solutions f
 
 ---
 
-## Live Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=florisvoskamp&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true&title_color=eaf2ff&text_color=cbd5e1&icon_color=38bdf8" />
@@ -70,7 +73,6 @@ I’m also the founder of **Adulari**, where I build custom software solutions f
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florisvoskamp&layout=compact&theme=transparent&hide_border=true&title_color=eaf2ff&text_color=cbd5e1" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=florisvoskamp&theme=github_dark" />
 </p>
 
 ---
@@ -84,61 +86,55 @@ I’m also the founder of **Adulari**, where I build custom software solutions f
 
 ---
 
-## Contribution Overview
+## Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=florisvoskamp&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=florisvoskamp&bg_color=050816&color=eaf2ff&line=38bdf8&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=florisvoskamp&bg_color=050816&color=eaf2ff&line=38bdf8&point=7dd3fc&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### BudgetFlow in Haskell
-A Haskell application built around recursion and personal budget simulation, with scenario comparison and stress testing.
+### BudgetFlow – Haskell
+Personal budgeting and financial scenario simulation CLI built in Haskell.  
+Focus on recursion, functional design, and deterministic calculations.
 
-**Why it stands out**
-- strongest public repo on the profile
-- **52 commits**
-- includes a release
-- received a **10.0 grade**
+- functional architecture  
+- CLI based workflow  
+- scenario comparison  
+- deterministic calculations  
+- received grade **10/10**
 
-[View repository](https://github.com/florisvoskamp/haskell-app)
+https://github.com/florisvoskamp/haskell-app
+
+---
 
 ### Compiler / Parsing Project
-A Java based compiler assignment built on top of a forked base repository, extended with your own implementation work.
+Compiler assignment built using Java and ANTLR, implementing parsing, language structure, and compiler logic.
 
-**Why it belongs here**
-- meaningful academic project instead of just a fork
-- **18 commits**
-- focused on compiler construction, parsing, and language tooling
-- uses **Java** and **ANTLR**
+- compiler construction  
+- parsing and AST generation  
+- ANTLR grammar  
+- semantic validation  
+- language tooling  
 
-[View repository](https://github.com/florisvoskamp/icss2022-sep)
-
-### Java App
-A smaller Java project that is currently more lightweight, but still worth keeping visible as part of your broader language range.
-
-[View repository](https://github.com/florisvoskamp/java-app)
+https://github.com/florisvoskamp/icss2022-sep
 
 ---
 
 ## What I Build
 
-- high performance backend services
-- scalable APIs and platforms
-- full stack applications
-- automation tooling
-- developer focused systems
-- data driven and technical products
+- high performance backend systems  
+- scalable APIs and services  
+- full stack applications  
+- automation tooling  
+- developer infrastructure  
+- data processing systems  
 
 ---
 
-## Principles
+## Engineering Principles
 
 <p align="center">
   <img src="https://img.shields.io/badge/Performance-First-1e3a8a?style=for-the-badge&labelColor=0b1220" />
@@ -158,9 +154,6 @@ A smaller Java project that is currently more lightweight, but still worth keepi
   </a>
   <a href="https://github.com/florisvoskamp">
     <img src="https://img.shields.io/badge/GitHub-florisvoskamp-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" />
-  </a>
-  <a href="https://www.linkedin.com/in/floris-voskamp">
-    <img src="https://img.shields.io/badge/LinkedIn-Floris%20Voskamp-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" />
   </a>
 </p>
 
